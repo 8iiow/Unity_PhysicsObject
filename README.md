@@ -2,8 +2,9 @@
 https://learn.unity.com/tutorial/live-session-2d-platformer-character-controller?language=en#
 
 --------------------------------------------
-위의 동영상을 보고 학습과 정리 목적으로 작성된 Repo입니다.
-피드백 관련해서는 언제나 환영입니다. 
+위의 동영상을 보고 학습과 정리 목적으로 작성된 Repo입니다.   
+피드백 관련해서는 언제나 환영입니다.  
+저작권을 침해할 목적은 없으며, 그냥 관련영상을 보고 나름대로 정리한 글입니다.
 --------------------------------------------
 
 2D 상에서의 움직임을 Kinematic RigidBody을 사용해서 Scripting으로 충돌 구현  
